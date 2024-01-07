@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-  .about-matrix { text-align: center;
-}
+  .about-matrix {
+    text-align: center;
+  }
 }
 .tasks {
   display: block;
