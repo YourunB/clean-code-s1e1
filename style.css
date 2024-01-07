@@ -63,7 +63,7 @@ button {
 /* Heading */
 .incomplete-tasks__title,
 .completed-tasks__title,
-.add-task__title[for="new-task"] {
+.add-task__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -94,7 +94,7 @@ button {
 .add-task {
   margin: 16px 0;
 }
-.add-task__title[for="new-task"] {
+.add-task__title {
   display: block;
   margin: 0 0 20px;
 }
