@@ -155,3 +155,7 @@ button {
 .tasks-list .tasks-list__item.tasks-list__item_edit .tasks-list__item__task {
   display: none;
 }
+
+.tasks-list#completed-tasks .tasks-list__item_edit .tasks-list__item__task {
+  text-decoration: none;
+}
